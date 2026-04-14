@@ -1,0 +1,11 @@
+{
+    "filename": "OuterWildsArabic.dll",
+    "author": "Hesham",
+    "name": "Outer Wilds Arabic Translation",
+    "uniqueName": "Hesham.OuterWildsArabic",
+    "version": "1.0.0",
+    "owmlVersion": "2.15.5",
+    "dependencies": [
+        "xen.LocalizationUtility"
+    ]
+}
