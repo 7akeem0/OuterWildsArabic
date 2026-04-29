@@ -1,5 +1,6 @@
+<img width="1632" height="1775" alt="Oute_wilds" src="https://github.com/user-attachments/assets/8fbcdae5-6a36-4544-bf59-81cc9931a8c0" />
 
-<img width="1456" height="822" alt="image" src="https://github.com/user-attachments/assets/d6dcf453-a501-4c7c-b5cf-3332204eda61" />
+
 
 # Outer Wilds Arabic Translation | ترجمة Outer Wilds للعربية
 
