@@ -1,4 +1,5 @@
-<img width="1632" height="1775" alt="Oute_wilds" src="https://github.com/user-attachments/assets/8fbcdae5-6a36-4544-bf59-81cc9931a8c0" />
+<img width="2145" height="1164" alt="image" src="https://github.com/user-attachments/assets/de7e9c0d-5c9f-4972-9031-15618006f080" />
+
 
 
 
@@ -16,7 +17,7 @@ A complete Arabic translation for **Outer Wilds** and the **Echoes of the Eye** 
 - Right-aligned text for natural Arabic reading
 - Color tags and formatting preserved
 
-
+<img width="1632" height="1775" alt="Oute_wilds" src="https://github.com/user-attachments/assets/8fbcdae5-6a36-4544-bf59-81cc9931a8c0" />
 <img width="3777" height="2067" alt="image" src="https://github.com/user-attachments/assets/abec0405-9202-479c-b219-8bad4875efb1" />
 
 ## Installation
